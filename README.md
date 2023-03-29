@@ -1,13 +1,13 @@
 ### Hi, I'm Ksenia 👋
 
-- 👩‍💻 I´m a frontend developer-student based in Stockholm, Sweden 
+- 👩‍💻 I´m a frontend developer student based in Stockholm, Sweden 
 - 🌱 I’m currently learning Vue and React
 - 🔭 Looking for internship (LIA) for the period from 2023-09-25 to 2023-12-03
 
 
 #### My portfolio 
 
-[![portfolio](https://www.dropbox.com/s/7ei1ki3xrnbb1pi/portfolio%282%29.png?raw=1)](https://ixenia.me/)
+[![portfolio](https://www.dropbox.com/s/7ei1ki3xrnbb1pi/portfolio%282%29.png?raw=1)](https://github.com/kseniiaivanova/portfolio.git)
 
 #### Skills
 
