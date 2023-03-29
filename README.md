@@ -7,7 +7,7 @@
 
 #### My portfolio 
 
-[![portfolio](https://www.dropbox.com/s/7ei1ki3xrnbb1pi/portfolio%282%29.png?raw=1)](https://github.com/kseniiaivanova/portfolio.git)
+[![portfolio](https://www.dropbox.com/s/gbax28uka2xk2c6/portfolio%283%29.png?raw=1)](https://github.com/kseniiaivanova/portfolio.git)
 
 #### Skills
 
