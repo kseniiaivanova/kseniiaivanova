@@ -1,7 +1,7 @@
 ### Hi, I'm Ksenia 👋
 
-- 👩‍💻 I´m a frontend developer student based in Stockholm, Sweden 
-- 🌱 I’m currently learning UX/UI
+👩‍💻 I´m a frontend developer student based in Stockholm, Sweden 
+
 
 
 
