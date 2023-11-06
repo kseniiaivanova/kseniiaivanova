@@ -1,6 +1,6 @@
 ### Hi, I'm Ksenia 👋
 
-👩‍💻 I´m a frontend developer student based in Stockholm, Sweden 
+👩‍💻 Frontend developer based in Stockholm, Sweden  
 
 
 
