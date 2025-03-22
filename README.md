@@ -1,4 +1,4 @@
-### Hi, I'm Ksenia 👋
+### Hi, I'm Xenia 👋
 
 👩‍💻 Frontend developer based in Stockholm, Sweden  
 
