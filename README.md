@@ -2,13 +2,6 @@
 
 👩‍💻 Frontend developer based in Stockholm, Sweden  
 
-
-
-
-#### My portfolio 
-
-[![portfolio](https://www.dropbox.com/s/gbax28uka2xk2c6/portfolio%283%29.png?raw=1)](https://github.com/kseniiaivanova/portfolio.git)
-
 #### Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
