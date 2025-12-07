@@ -1,7 +1,6 @@
 ### Hi, I'm Xenia 👋
 
-👩‍💻 Full-stack developer based in Stockholm, Sweden. Enjoys building scalable, user-focused tools and intuitive, visually engaging user
-interfaces. 
+👩‍💻 Full-stack developer based in Stockholm, Sweden with hands-on experience across the full development lifecycle from designing responsive UIs to integrating backend services and APIs.
 
 #### Skills
 
